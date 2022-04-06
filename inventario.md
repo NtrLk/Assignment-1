@@ -6,3 +6,4 @@ schede_madri
 Elettronica Padovana
 periferiche
 tastiere
+mouse
