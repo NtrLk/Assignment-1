@@ -1,5 +1,6 @@
 2052815
 1226293
+componenti
 processori
 schede_madri
 Elettronica Padovana
